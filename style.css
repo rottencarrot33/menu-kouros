@@ -48,7 +48,7 @@ body{
     height: 50vh;
     background-position: bottom;
     background-size: cover;
-    background-image:url(img/detail\ in\ private\ pool.jpg);
+    background-image:url(img/pool.jpg);
     display: flex;
     align-items: flex-end;
     justify-content: center;
